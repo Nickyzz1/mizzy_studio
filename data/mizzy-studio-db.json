@@ -1,0 +1,396 @@
+{
+  "settings": {
+    "studioName": "Mizzy Studio",
+    "ownerName": "Alexandre Ramos",
+    "whatsapp": "+55 (11) 98765-4321",
+    "pixKey": "contato@mizzystudio.com",
+    "defaultBaseFolder": "C:\\Users\\User\\Videos\\Projetos_Mizzy",
+    "defaultTasks": [
+      "Decupagem e seleção de takes",
+      "Corte bruto e ritmo da narrativa",
+      "Inserção de legendas dinâmicas",
+      "Tratamento de áudio & SFX",
+      "Color grading Rec.709",
+      "Exportação e entrega da V1"
+    ],
+    "showCountdownInOverview": true
+  },
+  "clients": [
+    {
+      "id": "cli-1794578695561",
+      "name": "Sofia Martins",
+      "companyOrChannel": "Canal Viagens & Estilo",
+      "whatsapp": "+55 41 95555-4444",
+      "email": "sofia@viagenseestilo.com",
+      "driveFolder": "https://drive.google.com/drive/folders/1EQ743FNLWhBOcsvARCzgUVJAbc6WSeLp?usp=drive_link",
+      "notes": "- Cortar respirações desnecessárias\n- Closes para transição\n- Legenda"
+    },
+    {
+      "id": "cli-1",
+      "name": "Felipe Andrade",
+      "companyOrChannel": "Horizon Media",
+      "whatsapp": "+55 11 98888-7777",
+      "email": "felipe@horizonmedia.com",
+      "driveFolder": "https://drive.google.com/drive/folders/scaleai",
+      "notes": "Legendas dinâmicas amarelas, cortes rápidos sem pausas longas."
+    },
+    {
+      "id": "cli-2",
+      "name": "Marina Costa",
+      "companyOrChannel": "Clínica Lumina",
+      "whatsapp": "+55 21 97777-6666",
+      "email": "contato@clinicalumina.com",
+      "driveFolder": "https://drive.google.com/drive/folders/camila",
+      "notes": "Cores naturais e aquecidas para pele, estilo clean e trilha suave."
+    },
+    {
+      "id": "cli-3",
+      "name": "Bruno Zanetti",
+      "companyOrChannel": "Nexus Tech Labs",
+      "whatsapp": "+55 31 96666-5555",
+      "email": "bruno@nexustech.io",
+      "driveFolder": "https://frame.io/viana",
+      "notes": "Vídeos longos de YouTube (16:9) + cortes curtos semanais."
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1794600905559",
+      "projectId": "proj-1794600861387",
+      "projectTitle": "teste",
+      "clientId": "cli-1794578695561",
+      "clientName": "Sofia Martins",
+      "title": "teste - Render",
+      "version": "Final",
+      "category": "Reels / Shorts",
+      "format": "9:16",
+      "resolution": "4K",
+      "duration": "00:45",
+      "fileSize": "85 MB",
+      "localFilePath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-105_teste\\06_Final\\Video_Master.mp4",
+      "exportedAt": "2026-11-13"
+    },
+    {
+      "id": "vid-1",
+      "projectId": "proj-101",
+      "projectTitle": "Pack 4 Reels — Dicas de Edição",
+      "clientId": "cli-1",
+      "clientName": "Felipe Andrade",
+      "title": "Reel 01 - Como Cortar Mais Rápido",
+      "version": "V1",
+      "category": "Reels / Shorts",
+      "format": "9:16",
+      "resolution": "4K 60fps",
+      "duration": "00:42",
+      "fileSize": "85 MB",
+      "localFilePath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-101_ScaleAI\\05_Exports\\Reel01_V1.mp4",
+      "exportedAt": "2026-11-12"
+    },
+    {
+      "id": "vid-2",
+      "projectId": "proj-102",
+      "projectTitle": "YouTube — Finanças 2026",
+      "clientId": "cli-3",
+      "clientName": "Bruno Zanetti",
+      "title": "Episódio Finanças 2026 - Versão Revisão",
+      "version": "V1",
+      "category": "YouTube",
+      "format": "16:9",
+      "resolution": "4K 30fps",
+      "duration": "12:35",
+      "fileSize": "1.2 GB",
+      "localFilePath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-102_VianaCapital\\05_Exports\\Episodio_V1.mp4",
+      "exportedAt": "2026-11-11"
+    },
+    {
+      "id": "vid-3",
+      "projectId": "proj-103",
+      "projectTitle": "Reels Cuidados Pele",
+      "clientId": "cli-2",
+      "clientName": "Marina Costa",
+      "title": "Cuidados Pele - Final Master",
+      "version": "Final",
+      "category": "Reels / Shorts",
+      "format": "9:16",
+      "resolution": "4K 60fps",
+      "duration": "00:35",
+      "fileSize": "72 MB",
+      "localFilePath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-103_DraCamila\\06_Final\\Video_Master.mp4",
+      "exportedAt": "2026-11-10"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1794600861387",
+      "code": "MZ-105",
+      "title": "teste",
+      "clientId": "cli-1794578695561",
+      "clientName": "Sofia Martins",
+      "status": "finishing",
+      "format": "9:16 (Vertical / Reels / TikTok)",
+      "resolution": "4K 60fps",
+      "deliveryDate": "2026-11-15",
+      "paymentDate": "2026-11-15",
+      "price": 1200,
+      "amountPaid": 0,
+      "paymentStatus": "pending",
+      "revisionCount": 0,
+      "maxRevisions": 2,
+      "localFolderPath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-105_teste",
+      "foldersCreated": false,
+      "driveUrl": "https://drive.google.com/drive/folders/1EQ743FNLWhBOcsvARCzgUVJAbc6WSeLp?usp=drive_link",
+      "trackedSeconds": 0,
+      "tasks": [
+        {
+          "id": "t1",
+          "label": "Decupagem de material bruto",
+          "done": false
+        },
+        {
+          "id": "t2",
+          "label": "Corte e ritmo da narrativa",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "label": "Legendas e grafismos",
+          "done": false
+        },
+        {
+          "id": "t4",
+          "label": "Tratamento de áudio & SFX",
+          "done": false
+        },
+        {
+          "id": "t5",
+          "label": "Exportação e entrega da V1",
+          "done": false
+        }
+      ],
+      "notes": [],
+      "briefing": "",
+      "createdAt": "2026-11-13",
+      "startDate": "2026-11-13"
+    },
+    {
+      "id": "proj-1794578836772",
+      "code": "MZ-104",
+      "title": "4 YT videos",
+      "clientId": "cli-1794578695561",
+      "clientName": "Sofia Martins",
+      "status": "cutting",
+      "format": "16:9 (Horizontal / YouTube)",
+      "resolution": "4K 60fps",
+      "deliveryDate": "2026-11-15",
+      "paymentDate": "2026-11-15",
+      "price": 1200,
+      "amountPaid": 1200,
+      "paymentStatus": "paid",
+      "revisionCount": 0,
+      "maxRevisions": 2,
+      "localFolderPath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-104_4_YT_videos",
+      "foldersCreated": false,
+      "driveUrl": "https://drive.google.com/drive/folders/1EQ743FNLWhBOcsvARCzgUVJAbc6WSeLp?usp=drive_link",
+      "trackedSeconds": 0,
+      "tasks": [
+        {
+          "id": "t1",
+          "label": "Decupagem de material bruto",
+          "done": false
+        },
+        {
+          "id": "t2",
+          "label": "Corte e ritmo da narrativa",
+          "done": false
+        },
+        {
+          "id": "t3",
+          "label": "Legendas e grafismos",
+          "done": false
+        },
+        {
+          "id": "t4",
+          "label": "Tratamento de áudio & SFX",
+          "done": false
+        },
+        {
+          "id": "t5",
+          "label": "Exportação e entrega da V1",
+          "done": false
+        }
+      ],
+      "notes": [],
+      "briefing": "- serviço extra de coloring contratado",
+      "createdAt": "2026-11-13",
+      "startDate": "2026-11-13"
+    },
+    {
+      "id": "proj-101",
+      "code": "MZ-101",
+      "title": "Pack 4 Reels — Dicas de Edição & Retenção",
+      "clientId": "cli-1",
+      "clientName": "Felipe Andrade",
+      "status": "finishing",
+      "format": "9:16 (Vertical / Reels / TikTok)",
+      "resolution": "4K 60fps",
+      "deliveryDate": "2026-11-13",
+      "paymentDate": "2026-11-15",
+      "price": 1200,
+      "amountPaid": 600,
+      "paymentStatus": "deposit_50",
+      "revisionCount": 0,
+      "maxRevisions": 2,
+      "localFolderPath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-101_ScaleAI",
+      "foldersCreated": true,
+      "driveUrl": "https://drive.google.com",
+      "trackedSeconds": 4233,
+      "tasks": [
+        {
+          "id": "t1",
+          "label": "Decupagem e seleção dos melhores takes",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "label": "Cortes secos e eliminação de silêncios",
+          "done": true
+        },
+        {
+          "id": "t3",
+          "label": "Inserção de legendas animadas",
+          "done": true
+        },
+        {
+          "id": "t4",
+          "label": "Efeitos sonoros e trilha de fundo",
+          "done": false
+        },
+        {
+          "id": "t5",
+          "label": "Correção de cor e export final",
+          "done": false
+        }
+      ],
+      "notes": [
+        {
+          "id": "n1",
+          "timecode": "00:14",
+          "version": "V1",
+          "comment": "Diminuir um pouco o volume da música quando o narrador fala rápido.",
+          "resolved": false
+        }
+      ],
+      "briefing": "Reels dinâmicos de 45 segundos com legendas destacadas e cortes ágeis.",
+      "createdAt": "2026-11-11",
+      "startDate": "2026-11-11"
+    },
+    {
+      "id": "proj-102",
+      "code": "MZ-102",
+      "title": "YouTube — Melhores Práticas de Finanças 2026",
+      "clientId": "cli-3",
+      "clientName": "Bruno Zanetti",
+      "status": "review",
+      "format": "16:9 (Horizontal / YouTube)",
+      "resolution": "4K 30fps",
+      "deliveryDate": "2026-11-14",
+      "paymentDate": "2026-11-14",
+      "price": 1800,
+      "amountPaid": 1800,
+      "paymentStatus": "paid",
+      "revisionCount": 1,
+      "maxRevisions": 2,
+      "localFolderPath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-102_VianaCapital",
+      "foldersCreated": true,
+      "driveUrl": "https://frame.io",
+      "trackedSeconds": 9801,
+      "tasks": [
+        {
+          "id": "t1",
+          "label": "Corte bruto da entrevista",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "label": "Inserir B-rolls de mercado",
+          "done": true
+        },
+        {
+          "id": "t3",
+          "label": "Equalização de voz e tratamento de áudio",
+          "done": true
+        },
+        {
+          "id": "t4",
+          "label": "Revisão com o cliente",
+          "done": false
+        }
+      ],
+      "notes": [
+        {
+          "id": "n2",
+          "timecode": "04:20",
+          "version": "V1",
+          "comment": "Substituir o gráfico de inflação pela versão atualizada.",
+          "resolved": false
+        }
+      ],
+      "briefing": "Vídeo institucional de 12 minutos para o canal principal.",
+      "createdAt": "2026-11-09",
+      "startDate": "2026-11-09"
+    },
+    {
+      "id": "proj-103",
+      "code": "MZ-103",
+      "title": "Reels Estético — Cuidados Diários com a Pele",
+      "clientId": "cli-2",
+      "clientName": "Marina Costa",
+      "status": "delivered",
+      "format": "9:16 (Vertical / Reels / TikTok)",
+      "resolution": "4K 60fps",
+      "deliveryDate": "2026-11-10",
+      "paymentDate": "2026-11-10",
+      "price": 900,
+      "amountPaid": 900,
+      "paymentStatus": "paid",
+      "revisionCount": 1,
+      "maxRevisions": 2,
+      "localFolderPath": "C:\\Users\\User\\.gemini\\antigravity\\scratch\\mizzy-studio\\Projetos_Mizzy\\MZ-103_DraCamila",
+      "foldersCreated": true,
+      "driveUrl": "https://drive.google.com",
+      "trackedSeconds": 3200,
+      "tasks": [
+        {
+          "id": "t1",
+          "label": "Cortes suaves no ritmo da música",
+          "done": true
+        },
+        {
+          "id": "t2",
+          "label": "Color grading elegante",
+          "done": true
+        },
+        {
+          "id": "t3",
+          "label": "Entrega do arquivo final aprovado",
+          "done": true
+        }
+      ],
+      "notes": [],
+      "briefing": "Estilo clean, transições suaves e tipografia minimalista.",
+      "createdAt": "2026-11-08",
+      "startDate": "2026-11-08"
+    }
+  ],
+  "trashedProjects": [],
+  "customEvents": [
+    {
+      "id": "evt-1",
+      "title": "Gravação externa / Brutos ScaleAI",
+      "date": "2026-11-16",
+      "type": "production",
+      "notes": "Receber HD com material gravado em 4K"
+    }
+  ],
+  "schemaVersion": 3
+}
